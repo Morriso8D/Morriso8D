@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Morriso8D
-- 👀 When i'm AFK, you'll usually find me climbing or hiking
-- 🌱 I’m currently learning Golang and Ethereum
+- 👀 Like to climb things when i'm AFK
+- 🌱 Currently learning Golang
 - 📫 You can reach me @... a.morris_dev@hotmail.com
 <!---
 Morriso8D/Morriso8D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
